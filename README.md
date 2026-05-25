@@ -68,15 +68,14 @@ I'm a **Node.js Backend Developer** specializing in production-grade, cloud-nati
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafamahmoud55&show_icons=true&theme=radical&hide_border=true" height="180" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafamahmoud55&layout=compact&theme=radical&hide_border=true&langs_count=5" height="180" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafamahmoud55&theme=radical" width="800" alt="GitHub Profile Details" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mustafamahmoud55&theme=radical&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafamahmoud55&theme=radical" width="395" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafamahmoud55&theme=radical" width="395" alt="Top Languages" />
 </div>
 
 ---
