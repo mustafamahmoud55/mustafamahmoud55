@@ -83,10 +83,14 @@ I'm a **Node.js Backend Developer** specializing in production-grade, cloud-nati
 ### 🤝 Let's Connect
 
 <div align="center">
-📄 **Resume:** [Download my ATS-friendly CV here](https://drive.google.com/file/d/12qd0sMe88sblm72v3buwDXpH4-robpUW/view?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-mahmoud5501/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafa.mahmoud8510@gmail.com)
+  <p>📄 <b>Resume:</b> <a href="https://drive.google.com/file/d/12qd0sMe88sblm72v3buwDXpH4-robpUW/view?usp=sharing">Download my ATS-friendly CV here</a></p>
 
+  <a href="https://www.linkedin.com/in/mustafa-mahmoud5501/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mustafa.mahmoud8510@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
